@@ -13,9 +13,15 @@ I am currently pursuing a degree in [Electrical & Computer Engineering](https://
 
 Experience
 ======
-[Wells Fargo](https://www.wellsfargo.com/) - June 2025 - August 2025, Software Engineer Intern
-[Novoguild - AI Recruiting Platform](https://www.novoguild.com/) - June 2024 - September 2024
-[Brain Racers - eSports Platform for Education](https://brainracers.gg/) - June 2023 - September 2023
+- **[Wells Fargo](https://www.wellsfargo.com/)**  
+  *Software Engineer Intern* — June 2025 – August 2025
+
+- **[Novoguild – AI Recruiting Platform](https://www.novoguild.com/)**  
+  *Software Engineer Intern* — June 2024 – September 2024
+
+- **[Brain Racers – eSports Platform for Education](https://brainracers.gg/)**  
+  *Software Engineer Intern* — June 2023 – September 2023
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
